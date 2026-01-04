@@ -10,4 +10,4 @@ Topics:
 - File handling
 - Mini projects
 
-Author: Hinal Rana
+
